@@ -1,0 +1,49 @@
+There are many different stage types to choose from. This defines stages of a quest and is where you will plan out quest objectives like mining blocks, killing mobs, etc.
+
+You have the option of creating multiple stages within one quest (Ex. Stage 1 Talk to NPC, Stage 2 Go Fish, Stage 3 Go back and talk to NPC for reward)
+
+Within each stage you can set:
+1. Blocks
+- Break Blocks
+- Damage Blocks
+- Place Blocks
+- Use Blocks
+
+Within each Blocks you pick 1 the Block Name. 2 Block Amount. 3 Block Durabilities
+
+2. Items
+- Craft
+- Smelt
+- Enchant
+- Brew
+- Consume
+
+3. NPCs (Requires Citizens Plugin)
+- Deliver Items (to npc)
+- Talk To NPC
+- Kill NPC
+
+4. Mobs
+- Kill mobs
+- Tame mobs
+- Catch Fish
+- Milke Cows
+- Shear Sheep
+
+5. Kill Players
+- Amount of Players to Kill
+
+6. Reach Locations
+- Set Locations
+- Set Location Radii
+- Set Location Names
+
+7. Password
+- Add Password Hints
+- Add Password Phrase
+
+8. Custom Objectives (Modules Required)
+- Mythic Mobs Custom Objectives
+- Interactions Custom Objectives
+
+(Note: Custom Objectives still needs better documentation if you are familiar)
